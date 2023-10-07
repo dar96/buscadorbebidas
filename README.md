@@ -9,7 +9,6 @@ Proyecto Buscador de bebidas con React, ContextAPI, ,MUI y una API externa.
 
 - [Descripción y contexto](#descripción-y-contexto)
 - [Guía de usuario](#guía-de-usuario)
-- [Guía de instalación](#guía-de-instalación)
 - [Autor/es](#autores)
 
 
@@ -28,8 +27,9 @@ Escribe la bebida alcohólica con la que quieres hacer tu bebida en el buscador 
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="40" height="40"/> </a></p>
 ## Autor/es
 ---
-Dariel Frías.
-
+<a href="https://github.com/dar96" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/100532984?s=400&u=9e96b8005857d1df800396d8efa80eb0ca16b45e&v=4" alt="dar96" width="40" height="40"/> </a>
+## Video
+---
 
 https://github.com/dar96/buscadorbebidas/assets/100532984/12f14606-8d16-4fc7-9f73-17d5f5819a52
 
